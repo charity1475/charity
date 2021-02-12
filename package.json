@@ -17,8 +17,8 @@
   "author": "Charity Mbisi",
   "license": "MIT",
   "devDependencies": {
-    "@babel/core": "7.12.13",
-    "@babel/preset-env": "7.12.13",
+    "@babel/core": "7.12.16",
+    "@babel/preset-env": "7.12.16",
     "gulp": "4.0.2",
     "gulp-autoprefixer": "7.0.1",
     "gulp-babel": "8.0.0",
